@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Himalayas</title>
+    <style>
+        h2{
+            text-align: center;
+        }
+       
+
+        .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 50px;
+  border-bottom: 2px solid white;
+}
+    </style>
+</head>
+<body>
+
+    <h2>The Himalayas</h2>
+
+    <p>The Himalayas is the highest mountain range in the world and home to most of the world's highest mountains,<br>
+        includes many mountains</p>
+    
+    <div class="container">
+    <img src="https://media.istockphoto.com/id/1223738331/photo/panoramic-59-mpix-xxxxl-size-view-of-mount-ama-dablam-in-himalayas-nepal.jpg?b=1&s=170667a&w=0&k=20&c=cGqrdcvB6qqL8B2KPySr8yGE7Uh_sBSNpx3xJR-iYe0=" alt="Himalayas mountains" width="100%" >
+    <div class="centered">Range of mountains</div>
+</div>
+    
+</body>
+</html>
